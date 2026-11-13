@@ -1,0 +1,10 @@
+05 generative-on-analog exit=0
+02 kuramoto-ml-models exit=0
+04 aimc-hwa-training exit=0
+03 ising-machines-noise exit=0
+01 osc-hardware-variability exit=0
+08 dynamical-robustness exit=0
+09 faults-yield-readout exit=0
+06 analog-ecc-redundancy exit=0
+07 physical-nn-training exit=0
+10 unconv-ai-and-peers exit=0
